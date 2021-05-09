@@ -65,6 +65,14 @@
 - 第一級陸上特殊無線技士（2020/7）
 
 ## その他
+### 開発環境
+- Windows 10 Pro
+- Ubuntu (WSL2)
+- Chrome OS
+- Raspberry Pi OS
+- Visual Studio Code
+- PyCharm Professional
+
 ### 所持デジタル機器
 - メインPC
     - DeskMini A300 (ASRock)
@@ -96,11 +104,3 @@
     - BCM2711 (Broadcom)
     - 8GB LPDDR4-3200 SDRAM
     - 120GB SSD (PNY SSD7CS900-120-RB)
-
-### 開発環境
-- Windows 10 Pro
-- Ubuntu (WSL2)
-- Chrome OS
-- Raspberry Pi OS
-- Visual Studio Code
-- PyCharm Professional
